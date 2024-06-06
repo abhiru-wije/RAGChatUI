@@ -1,0 +1,15 @@
+Flask==2.3.2
+langchain==0.1.17
+langchain-anthropic==0.1.11
+langchain-community==0.0.37
+langchain-core==0.1.52
+langchain-openai==0.0.5
+langchainplus-sdk==0.0.20
+openai==1.26.0
+openapi-schema-pydantic==1.2.4
+pymongo==4.6.2
+python-dotenv==1.0.0
+requests==2.31.0
+chromadb==0.3.29
+pypdf==4.2.0
+jq==1.7.0
